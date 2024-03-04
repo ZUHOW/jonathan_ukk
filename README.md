@@ -16,5 +16,5 @@ Back-end = php <br/>
 
 **Diagram alur kerja sistem(flowchart)**
 
-![](flowchartjojo.png)
+![](flowchartjojo.jpg)
 
